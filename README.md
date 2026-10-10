@@ -47,11 +47,11 @@ Developed as the **Final Term Project** for:
 | :---: | :---: |
 | ![Login Screen](Screenshots/1.png) | ![Dashboard](Screenshots/2.png) |
 
-| 3. Product Management | 4. Supplier Management |
+| 3. Product Management | 4. Category Management |
 | :---: | :---: |
 | ![Product Management](Screenshots/3.png) | ![Supplier Management](Screenshots/4.png) |
 
-| 5. Category Management | 6. Search & Filter Interface |
+| 5. Supplier Management | 6. Exit |
 | :---: | :---: |
 | ![Category Management](Screenshots/5.png) | ![Search Interface](Screenshots/6.png) |
 
